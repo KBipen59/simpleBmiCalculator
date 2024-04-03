@@ -1,0 +1,23 @@
+body{
+    background-color: grey;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    width: 100px;
+}
+header{
+    text-align: center;
+
+}
+#condition{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    display: none;
+}
